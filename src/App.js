@@ -6,7 +6,7 @@ import AdminPage from './components/AdminPage';
 import CustomerHome from './components/CustomerHome';
 import AdminHome from './components/AdminHome';
 import GetUsers from './components/GetUsers';
-import GenerateReport from './components/GenerateReport';
+import GenerateReport from './components/GenerateReport';            
 import ViewOrders from './components/ViewOrders';
 import ManageItems from './components/ManageItems';
 import AddMenuItems from './components/AddMenuItems';
